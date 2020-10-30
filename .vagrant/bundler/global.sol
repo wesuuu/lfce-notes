@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-puppet-install",["= 6.0.1"]],["net-ssh",[">= 2.6.5"]],["net-scp",["~> 1.1"]],["log4r",["~> 1.1"]],["vagrant-scp",["= 0.5.7"]],["concurrent-ruby",["~> 1.0"]],["i18n",[">= 0"]],["micromachine",[">= 2","< 4"]],["vagrant-vbguest",["= 0.24.0"]]],"checksum":"099271efc846a01d0cf4ceee0e14e92b2edd284759950866235348101d359b41","vagrant_version":"2.2.9"}
